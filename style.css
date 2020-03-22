@@ -1,0 +1,30 @@
+body {
+  font-family: "Roboto";
+}
+main {
+  margin: 2%;
+}
+.container {
+  margin: auto;
+  font-size: 16px;
+}
+.Portf {
+  max-height: 342px;
+  background-color: #e9ecef;
+  padding: 10px;
+}
+.card {
+  margin: auto;
+  margin-top: 2%;
+}
+h1 {
+  margin-top: 20px;
+}
+footer {
+  background-color: #f5f5f5;
+  padding: 1%;
+}
+table {
+  padding: 2%;
+  margin: auto;
+}
