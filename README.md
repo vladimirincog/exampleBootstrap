@@ -1,1 +1,0 @@
-# vladimir_portfolio.githab.io
