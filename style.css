@@ -3,10 +3,12 @@ body {
 }
 main {
   margin: 2%;
+  overflow-x: auto;
 }
 .container {
   margin: auto;
   font-size: 16px;
+  padding: 2px;
 }
 .Portf {
   max-height: 342px;
@@ -27,4 +29,5 @@ footer {
 table {
   padding: 2%;
   margin: auto;
+  
 }
