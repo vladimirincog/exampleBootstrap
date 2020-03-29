@@ -3,7 +3,7 @@ body {
 }
 main {
   margin: 2%;
-  overflow-x: auto;
+  
 }
 .container {
   margin: auto;
@@ -30,4 +30,7 @@ table {
   padding: 2%;
   margin: auto;
   
+}
+#scrolling_tb{
+  overflow-x: auto;
 }
