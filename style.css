@@ -3,7 +3,7 @@ body {
 }
 main {
   margin: 2%;
-  overflow-x: auto;
+
 }
 .container {
   margin: auto;
@@ -25,9 +25,14 @@ h1 {
 footer {
   background-color: #f5f5f5;
   padding: 1%;
+  margin-top: 2%;
 }
-table {
+.table {
   padding: 2%;
   margin: auto;
   
+ 
+}
+#scroll_tb{
+  overflow-x: auto;
 }
